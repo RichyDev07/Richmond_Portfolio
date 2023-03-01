@@ -1,6 +1,7 @@
+*{ margin: 0%;
+    padding: 0%;}
 body{
-    margin: 0%;
-    padding: 0%;
+   
     background-image: url(../images/1759072.jpg);
     background-size: cover;
     background-position: center;
